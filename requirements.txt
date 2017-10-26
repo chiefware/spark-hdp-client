@@ -1,3 +1,4 @@
+pyspark==2.2.0
 chardet==2.2.1
 cheroot==5.8.3
 CherryPy==10.2.1
@@ -28,5 +29,4 @@ tempora==1.9
 urlgrabber==3.10
 Werkzeug==0.12.2
 yum-metadata-parser==1.1.4
-pyspark
 
